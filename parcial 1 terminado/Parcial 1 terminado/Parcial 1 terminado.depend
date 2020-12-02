@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\usuario\desktop\parcial 1 terminado\parcial 1 terminado\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1606910474 source:c:\users\usuario\desktop\parcial 1 terminado\parcial 1 terminado\colores.c
+	<stdio.h>
+	<stdlib.h>
+	"colores.h"
+
+1606910590 c:\users\usuario\desktop\parcial 1 terminado\parcial 1 terminado\colores.h
+
+1606911005 source:c:\users\usuario\desktop\parcial 1 terminado\parcial 1 terminado\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicios.h"
+
+1606911076 c:\users\usuario\desktop\parcial 1 terminado\parcial 1 terminado\servicios.h
+
+1606911117 source:c:\users\usuario\desktop\parcial 1 terminado\parcial 1 terminado\tipos.c
+	<stdio.h>
+	<stdlib.h>
+	"tipos.h"
+
+1606911174 c:\users\usuario\desktop\parcial 1 terminado\parcial 1 terminado\tipos.h
+
